@@ -1,0 +1,16 @@
+{
+  "short_name": "ZenMoments",
+  "name": "Zen Moments Goal Tracker",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1f1a",
+  "theme_color": "#0a1f1a"
+}
