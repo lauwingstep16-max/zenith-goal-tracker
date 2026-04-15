@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-kaiti: "KaiTi", "STKaiti", "BiauKai", "楷体", "楷体_GB2312", serif;
+  --font-songti: "SimSun", "NSimSun", "STSong", "Songti SC", "Songti TC", serif;
+}
+
